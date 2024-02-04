@@ -1,0 +1,21 @@
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+}
+
+.player-preference{
+    display: flex;
+    justify-content: center;
+}
+
+.img-x , .img-o{
+    height: 100px;
+    width: 100px;
+}
+
+button{
+    background-color: white;
+}
+
+
